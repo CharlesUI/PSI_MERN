@@ -53,6 +53,6 @@ AdminSchema.methods.isMatch = async function(password){
     return isCorrect
 }
 
-const AdminModel = mongoose.model("Admin", AdminSchema);
+const Admin = mongoose.model("Admin", AdminSchema);
 
-module.exports = AdminModel;
+module.exports = Admin;

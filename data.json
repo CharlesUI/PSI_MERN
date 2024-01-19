@@ -6,7 +6,6 @@
             "RETAIL_PRICE": "18.00",
             "ISSUANCE_DATE": "May 19, 2023",
             "EXPIRY_DATE": "July 10, 2028",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "ACETYLCYSTEINE",
@@ -14,7 +13,6 @@
             "RETAIL_PRICE": "23.75",
             "ISSUANCE_DATE": "November 07, 2023",
             "EXPIRY_DATE": "November 15, 2027",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "ACICLOVIR",
@@ -22,7 +20,6 @@
             "RETAIL_PRICE": "15.25",
             "ISSUANCE_DATE": "March 29, 2022",
             "EXPIRY_DATE": "June 18, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "ACICLOVIR",
@@ -30,7 +27,6 @@
             "RETAIL_PRICE": "29.75",
             "ISSUANCE_DATE": "March 30, 2022",
             "EXPIRY_DATE": "June 19, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "ACICLOVIR",
@@ -38,7 +34,6 @@
             "RETAIL_PRICE": "63.00",
             "ISSUANCE_DATE": "January 03, 2023",
             "EXPIRY_DATE": "January 22, 2028",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "ACICLOVIR",
@@ -46,15 +41,13 @@
             "RETAIL_PRICE": "64.00",
             "ISSUANCE_DATE": "March 22, 2023",
             "EXPIRY_DATE": "March 06, 2028",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "ALL-IN-ONE ADMIXTURES",
             "DESCRIPTION": "(NUTRIFLEX LIPID PERO) 1,400 KCAL",
-            "RETAIL_PRICE": " 2,975.00",
+            "RETAIL_PRICE": "2,975.00",
             "ISSUANCE_DATE": "September 18, 2019",
             "EXPIRY_DATE": "January 21, 2024",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "ALLOPURINOL",
@@ -62,7 +55,6 @@
             "RETAIL_PRICE": "1.25",
             "ISSUANCE_DATE": "October 16, 2023",
             "EXPIRY_DATE": "May 04, 2025",
-            "LIFE_SPAN": "1"
         },
         {
             "NAME": "ALPRAZOLAM",
@@ -70,7 +62,6 @@
             "RETAIL_PRICE": "21.00",
             "ISSUANCE_DATE": "March 20, 2023",
             "EXPIRY_DATE": "May 04, 2028",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "AMIKACIN",
@@ -78,7 +69,6 @@
             "RETAIL_PRICE": "89.50",
             "ISSUANCE_DATE": "April 13, 2021",
             "EXPIRY_DATE": "April 13, 2026",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "AMIKACIN",
@@ -86,7 +76,6 @@
             "RETAIL_PRICE": "83.00",
             "ISSUANCE_DATE": "April 14, 2021",
             "EXPIRY_DATE": "April 14, 2026",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "AMIKACIN",
@@ -94,7 +83,6 @@
             "RETAIL_PRICE": "104.75",
             "ISSUANCE_DATE": "April 15, 2021",
             "EXPIRY_DATE": "April 15, 2026",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "AMIKACIN",
@@ -102,7 +90,6 @@
             "RETAIL_PRICE": "135.00",
             "ISSUANCE_DATE": "April 16, 2021",
             "EXPIRY_DATE": "April 16, 2026",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "AMINOPHYLLINE",
@@ -110,7 +97,6 @@
             "RETAIL_PRICE": "55.00",
             "ISSUANCE_DATE": "May 27, 2022",
             "EXPIRY_DATE": "May 13, 2027",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "AMIODARONE",
@@ -118,7 +104,6 @@
             "RETAIL_PRICE": "14.00",
             "ISSUANCE_DATE": "December 26, 2019",
             "EXPIRY_DATE": "November 21, 2024",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "AMIODARONE",
@@ -126,7 +111,6 @@
             "RETAIL_PRICE": "951.00",
             "ISSUANCE_DATE": "December 27, 2019",
             "EXPIRY_DATE": "November 22, 2024",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "AMLODIPINE",
@@ -134,7 +118,6 @@
             "RETAIL_PRICE": "0.50",
             "ISSUANCE_DATE": "May 06, 2021",
             "EXPIRY_DATE": "April 18, 2026",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "AMOXICILLIN",
@@ -142,7 +125,6 @@
             "RETAIL_PRICE": "5.50",
             "ISSUANCE_DATE": "February 25, 2022",
             "EXPIRY_DATE": "March 20, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "AMOXICILLIN",
@@ -150,7 +132,6 @@
             "RETAIL_PRICE": "75.00",
             "ISSUANCE_DATE": "February 26, 2022",
             "EXPIRY_DATE": "March 21, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "AMPICILLIN",
@@ -158,7 +139,6 @@
             "RETAIL_PRICE": "75.00",
             "ISSUANCE_DATE": "November 16, 2023",
             "EXPIRY_DATE": "March 24, 2028",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "AMPICILLIN",
@@ -166,7 +146,6 @@
             "RETAIL_PRICE": "53.00",
             "ISSUANCE_DATE": "November 17, 2023",
             "EXPIRY_DATE": "March 25, 2028",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "AMPILCILLIN + SULBACTAM",
@@ -174,7 +153,6 @@
             "RETAIL_PRICE": "65.50",
             "ISSUANCE_DATE": "November 16, 2023",
             "EXPIRY_DATE": "March 24, 2028",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "ARIPIPRAZOLE",
@@ -182,7 +160,6 @@
             "RETAIL_PRICE": "255.00",
             "ISSUANCE_DATE": "July 12, 2023",
             "EXPIRY_DATE": "October 16, 2028",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "ASCORBIC ACID",
@@ -190,7 +167,6 @@
             "RETAIL_PRICE": "1.25",
             "ISSUANCE_DATE": "November 18, 2023",
             "EXPIRY_DATE": "March 17, 2029",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "ASCORBIC ACID",
@@ -198,7 +174,6 @@
             "RETAIL_PRICE": "67.00",
             "ISSUANCE_DATE": "January 05, 2023",
             "EXPIRY_DATE": "March 25, 2028",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "ASCORBIC ACID",
@@ -206,7 +181,6 @@
             "RETAIL_PRICE": "27.00",
             "ISSUANCE_DATE": "January 05, 2023",
             "EXPIRY_DATE": "March 25, 2028",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "ASPIRIN",
@@ -214,7 +188,6 @@
             "RETAIL_PRICE": "0.75",
             "ISSUANCE_DATE": "February 11, 2023",
             "EXPIRY_DATE": "February 05, 2028",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "AZITHROMYCIN",
@@ -222,7 +195,6 @@
             "RETAIL_PRICE": "289.00",
             "ISSUANCE_DATE": "January 21, 2020",
             "EXPIRY_DATE": "October 02, 2024",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "AZITHROMYCIN",
@@ -230,7 +202,6 @@
             "RETAIL_PRICE": "255.00",
             "ISSUANCE_DATE": "January 21, 2020",
             "EXPIRY_DATE": "October 02, 2024",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "BARICITINIB",
@@ -238,7 +209,6 @@
             "RETAIL_PRICE": "495.00",
             "ISSUANCE_DATE": "October 18, 2022",
             "EXPIRY_DATE": "October 18, 2025",
-            "LIFE_SPAN": "3"
         },
         {
             "NAME": "BENZYLPENICILLIN",
@@ -246,7 +216,6 @@
             "RETAIL_PRICE": "19.25",
             "ISSUANCE_DATE": "February 08, 2022",
             "EXPIRY_DATE": "March 09, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "BETAHISTINE",
@@ -254,7 +223,6 @@
             "RETAIL_PRICE": "19.50",
             "ISSUANCE_DATE": "October 04, 2022",
             "EXPIRY_DATE": "October 04, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "BIPERIDEN",
@@ -262,7 +230,6 @@
             "RETAIL_PRICE": "6.25",
             "ISSUANCE_DATE": "July 13, 2022",
             "EXPIRY_DATE": "July 13, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "BUDESONIDE",
@@ -270,7 +237,6 @@
             "RETAIL_PRICE": "67.75",
             "ISSUANCE_DATE": "September 13, 2023",
             "EXPIRY_DATE": "December 29, 2026",
-            "LIFE_SPAN": "3"
         },
         {
             "NAME": "BUTHORPHANOL",
@@ -278,7 +244,6 @@
             "RETAIL_PRICE": "554.75",
             "ISSUANCE_DATE": "April 01, 2020",
             "EXPIRY_DATE": "February 07, 2025",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "CARBOPROST",
@@ -286,7 +251,6 @@
             "RETAIL_PRICE": "291.00",
             "ISSUANCE_DATE": "October 21, 2021",
             "EXPIRY_DATE": "March 13, 2024",
-            "LIFE_SPAN": "2"
         },
         {
             "NAME": "CARVEDILOL",
@@ -294,7 +258,6 @@
             "RETAIL_PRICE": "1.50",
             "ISSUANCE_DATE": "October 16, 2023",
             "EXPIRY_DATE": "July 05, 2027",
-            "LIFE_SPAN": "3"
         },
         {
             "NAME": "CEFALEXIN",
@@ -302,7 +265,6 @@
             "RETAIL_PRICE": "3.50",
             "ISSUANCE_DATE": "May 16, 2022",
             "EXPIRY_DATE": "May 19, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "CEFIXIME",
@@ -310,7 +272,6 @@
             "RETAIL_PRICE": "10.50",
             "ISSUANCE_DATE": "May 17, 2022",
             "EXPIRY_DATE": "May 20, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "CEFIXIME",
@@ -318,7 +279,6 @@
             "RETAIL_PRICE": "185.25",
             "ISSUANCE_DATE": "May 17, 2022",
             "EXPIRY_DATE": "May 20, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "CEFOTAXIME",
@@ -326,7 +286,6 @@
             "RETAIL_PRICE": "225.00",
             "ISSUANCE_DATE": "October 16, 2023",
             "EXPIRY_DATE": "October 16, 2028",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "CEFOXITIN",
@@ -334,7 +293,6 @@
             "RETAIL_PRICE": "108.50",
             "ISSUANCE_DATE": "June 05, 2023",
             "EXPIRY_DATE": "June 05, 2028",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "CEFTAZIDIME",
@@ -342,7 +300,6 @@
             "RETAIL_PRICE": "53.00",
             "ISSUANCE_DATE": "March 21, 2019",
             "EXPIRY_DATE": "March 13, 2024",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "CEFTRIAXONE",
@@ -350,7 +307,6 @@
             "RETAIL_PRICE": "24.25",
             "ISSUANCE_DATE": "February 04, 2022",
             "EXPIRY_DATE": "February 08, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "CELECOXIB",
@@ -358,7 +314,6 @@
             "RETAIL_PRICE": "4.00",
             "ISSUANCE_DATE": "November 08, 2023",
             "EXPIRY_DATE": "April 20, 2027",
-            "LIFE_SPAN": "3"
         },
         {
             "NAME": "CETIRIZINE",
@@ -366,7 +321,6 @@
             "RETAIL_PRICE": "0.50",
             "ISSUANCE_DATE": "March 15, 2022",
             "EXPIRY_DATE": "May 27, 2025",
-            "LIFE_SPAN": "3"
         },
         {
             "NAME": "CHLORPOMAZINE",
@@ -374,7 +328,6 @@
             "RETAIL_PRICE": "3.75",
             "ISSUANCE_DATE": "January 14, 2022",
             "EXPIRY_DATE": "January 20, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "CHLORPOMAZINE",
@@ -382,7 +335,6 @@
             "RETAIL_PRICE": "4.25",
             "ISSUANCE_DATE": "January 14, 2022",
             "EXPIRY_DATE": "January 20, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "CINNARIZINE",
@@ -390,7 +342,6 @@
             "RETAIL_PRICE": "1.75",
             "ISSUANCE_DATE": "February 08, 2022",
             "EXPIRY_DATE": "July 05, 2024",
-            "LIFE_SPAN": "2"
         },
         {
             "NAME": "CIPROFLOXACIN",
@@ -398,7 +349,6 @@
             "RETAIL_PRICE": "26.50",
             "ISSUANCE_DATE": "November 11, 2019",
             "EXPIRY_DATE": "September 13, 2023",
-            "LIFE_SPAN": "3"
         },
         {
             "NAME": "CIPROFLOXACIN",
@@ -406,7 +356,6 @@
             "RETAIL_PRICE": "96.00",
             "ISSUANCE_DATE": "November 11, 2019",
             "EXPIRY_DATE": "September 13, 2023",
-            "LIFE_SPAN": "3"
         },
         {
             "NAME": "CLARITHROMYCIN",
@@ -414,7 +363,6 @@
             "RETAIL_PRICE": "14.00",
             "ISSUANCE_DATE": "February 20, 2020",
             "EXPIRY_DATE": "February 19, 2023",
-            "LIFE_SPAN": "2"
         },
         {
             "NAME": "CLINDAMYCIN",
@@ -422,7 +370,6 @@
             "RETAIL_PRICE": "6.25",
             "ISSUANCE_DATE": "September 14, 2020",
             "EXPIRY_DATE": "September 03, 2025",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "CLINDAMYCIN",
@@ -430,7 +377,6 @@
             "RETAIL_PRICE": "92.25",
             "ISSUANCE_DATE": "September 14, 2020",
             "EXPIRY_DATE": "September 03, 2025",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "CLONAZEPAM",
@@ -438,7 +384,6 @@
             "RETAIL_PRICE": "10.75",
             "ISSUANCE_DATE": "July 07, 2023",
             "EXPIRY_DATE": "September 02, 2028",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "CLONIDINE",
@@ -446,7 +391,6 @@
             "RETAIL_PRICE": "125.00",
             "ISSUANCE_DATE": "July 12, 2023",
             "EXPIRY_DATE": "October 18, 2028",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "CLOXACILLIN",
@@ -454,7 +398,6 @@
             "RETAIL_PRICE": "3.75",
             "ISSUANCE_DATE": "May 31, 2023",
             "EXPIRY_DATE": "June 08, 2028",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "CLOXACILLIN",
@@ -462,7 +405,6 @@
             "RETAIL_PRICE": "46.50",
             "ISSUANCE_DATE": "May 31, 2023",
             "EXPIRY_DATE": "June 08, 2028",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "CLOZAPINE",
@@ -470,7 +412,6 @@
             "RETAIL_PRICE": "9.75",
             "ISSUANCE_DATE": "November 07, 2023",
             "EXPIRY_DATE": "October 04, 2028",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "CLOZAPINE",
@@ -478,7 +419,6 @@
             "RETAIL_PRICE": "8.50",
             "ISSUANCE_DATE": "November 07, 2023",
             "EXPIRY_DATE": "October 04, 2028",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "CO-AMOXICLAV",
@@ -486,7 +426,6 @@
             "RETAIL_PRICE": "18.25",
             "ISSUANCE_DATE": "April 22, 2022",
             "EXPIRY_DATE": "October 29, 2026",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "DEXAMETHASONE",
@@ -494,7 +433,6 @@
             "RETAIL_PRICE": "159.00",
             "ISSUANCE_DATE": "February 12, 2022",
             "EXPIRY_DATE": "October 09, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "DIAZEPAM",
@@ -502,7 +440,6 @@
             "RETAIL_PRICE": "110.75",
             "ISSUANCE_DATE": "February 12, 2022",
             "EXPIRY_DATE": "October 09, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "DIGOXIN",
@@ -510,7 +447,6 @@
             "RETAIL_PRICE": "5.00",
             "ISSUANCE_DATE": "February 10, 2023",
             "EXPIRY_DATE": "November 28, 2027",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "DIGOXIN",
@@ -518,7 +454,6 @@
             "RETAIL_PRICE": "133.25",
             "ISSUANCE_DATE": "March 21, 2023",
             "EXPIRY_DATE": "March 21, 2028",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "DIPHENHYDRAMINE",
@@ -526,7 +461,6 @@
             "RETAIL_PRICE": "30.50",
             "ISSUANCE_DATE": "September 21, 2021",
             "EXPIRY_DATE": "October 07, 2026",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "DOMPERIDONE",
@@ -534,7 +468,6 @@
             "RETAIL_PRICE": "2.75",
             "ISSUANCE_DATE": "July 02, 2021",
             "EXPIRY_DATE": "June 27, 2024",
-            "LIFE_SPAN": "2"
         },
         {
             "NAME": "DONEPEZIL",
@@ -542,7 +475,6 @@
             "RETAIL_PRICE": "39.00",
             "ISSUANCE_DATE": "July 15, 2022",
             "EXPIRY_DATE": "July 31, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "DOPAMINE",
@@ -550,7 +482,6 @@
             "RETAIL_PRICE": "171.00",
             "ISSUANCE_DATE": "June 20, 2020",
             "EXPIRY_DATE": "October 25, 2025",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "ENOXAPARIN",
@@ -558,7 +489,6 @@
             "RETAIL_PRICE": "320.25",
             "ISSUANCE_DATE": "April 14, 2023",
             "EXPIRY_DATE": "August 15, 2026",
-            "LIFE_SPAN": "3"
         },
         {
             "NAME": "ENOXAPARIN",
@@ -566,7 +496,6 @@
             "RETAIL_PRICE": "967.75",
             "ISSUANCE_DATE": "April 14, 2023",
             "EXPIRY_DATE": "August 15, 2026",
-            "LIFE_SPAN": "3"
         },
         {
             "NAME": "EPINEPHRINE",
@@ -574,7 +503,6 @@
             "RETAIL_PRICE": "29.50",
             "ISSUANCE_DATE": "June 14, 2022",
             "EXPIRY_DATE": "August 22, 2024",
-            "LIFE_SPAN": "2"
         },
         {
             "NAME": "EQUIRAB",
@@ -582,7 +510,6 @@
             "RETAIL_PRICE": "975.00",
             "ISSUANCE_DATE": "March 30, 2021",
             "EXPIRY_DATE": "March 06, 2026",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "ERYTHROMYCIN",
@@ -590,7 +517,6 @@
             "RETAIL_PRICE": "5.25",
             "ISSUANCE_DATE": "January 17, 2020",
             "EXPIRY_DATE": "January 17, 2025",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "ERYTHROMYCIN EYE OINTMENT",
@@ -598,7 +524,6 @@
             "RETAIL_PRICE": "140.00",
             "ISSUANCE_DATE": "October 11, 2022",
             "EXPIRY_DATE": "October 05, 2027",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "ESCITALOPRAM",
@@ -606,7 +531,6 @@
             "RETAIL_PRICE": "11.50",
             "ISSUANCE_DATE": "October 26, 2022",
             "EXPIRY_DATE": "October 26, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "FENOFIBRATE",
@@ -614,7 +538,6 @@
             "RETAIL_PRICE": "34.50",
             "ISSUANCE_DATE": "December 03, 2023",
             "EXPIRY_DATE": "January 04, 2029",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "FINASTERIDE",
@@ -622,7 +545,6 @@
             "RETAIL_PRICE": "12.25",
             "ISSUANCE_DATE": "September 11, 2023",
             "EXPIRY_DATE": "July 22, 2027",
-            "LIFE_SPAN": "3"
         },
         {
             "NAME": "FLUCONAZOLE",
@@ -630,7 +552,6 @@
             "RETAIL_PRICE": "70.00",
             "ISSUANCE_DATE": "October 24, 2023",
             "EXPIRY_DATE": "October 17, 2028",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "FLUCONAZOLE",
@@ -638,7 +559,6 @@
             "RETAIL_PRICE": "371.00",
             "ISSUANCE_DATE": "October 24, 2023",
             "EXPIRY_DATE": "October 17, 2028",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "FLUOXETINE",
@@ -646,7 +566,6 @@
             "RETAIL_PRICE": "29.00",
             "ISSUANCE_DATE": "January 20, 2023",
             "EXPIRY_DATE": "January 31, 2028",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "FLUOXETINE",
@@ -654,7 +573,6 @@
             "RETAIL_PRICE": "26.00",
             "ISSUANCE_DATE": "January 20, 2023",
             "EXPIRY_DATE": "January 31, 2028",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "FLUPENTIXOL",
@@ -662,7 +580,6 @@
             "RETAIL_PRICE": "399.00",
             "ISSUANCE_DATE": "September 13, 2022",
             "EXPIRY_DATE": "September 13, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "FUROSEMIDE",
@@ -670,7 +587,6 @@
             "RETAIL_PRICE": "6.75",
             "ISSUANCE_DATE": "October 03, 2023",
             "EXPIRY_DATE": "October 03, 2028",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "GABAPENTIN",
@@ -678,7 +594,6 @@
             "RETAIL_PRICE": "7.00",
             "ISSUANCE_DATE": "December 14, 2023",
             "EXPIRY_DATE": "March 28, 2029",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "GENTAMICIN",
@@ -686,7 +601,6 @@
             "RETAIL_PRICE": "6.00",
             "ISSUANCE_DATE": "March 20, 2023",
             "EXPIRY_DATE": "April 10, 2028",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "GLICLAZIDE",
@@ -694,7 +608,6 @@
             "RETAIL_PRICE": "5.50",
             "ISSUANCE_DATE": "November 12, 2023",
             "EXPIRY_DATE": "February 28, 2029",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "HALOPERIDOL",
@@ -702,7 +615,6 @@
             "RETAIL_PRICE": "4.25",
             "ISSUANCE_DATE": "August 11, 2023",
             "EXPIRY_DATE": "August 11, 2028",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "HALOPERIDOL",
@@ -710,7 +622,6 @@
             "RETAIL_PRICE": "529.75",
             "ISSUANCE_DATE": "August 11, 2023",
             "EXPIRY_DATE": "August 11, 2028",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "HYDROCORTISONE",
@@ -718,7 +629,6 @@
             "RETAIL_PRICE": "25.50",
             "ISSUANCE_DATE": "November 06, 2023",
             "EXPIRY_DATE": "October 07, 2028",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "HYDROCORTISONE",
@@ -726,7 +636,6 @@
             "RETAIL_PRICE": "64.75",
             "ISSUANCE_DATE": "November 06, 2023",
             "EXPIRY_DATE": "October 07, 2028",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "HYDROXYETHYL STARCH",
@@ -734,7 +643,6 @@
             "RETAIL_PRICE": "615.00",
             "ISSUANCE_DATE": "November 15, 2023",
             "EXPIRY_DATE": "December 01, 2028",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "HYDROXYUREA",
@@ -742,7 +650,6 @@
             "RETAIL_PRICE": "19.50",
             "ISSUANCE_DATE": "July 26, 2023",
             "EXPIRY_DATE": "July 23, 2028",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "HYOSCINE",
@@ -750,7 +657,6 @@
             "RETAIL_PRICE": "24.00",
             "ISSUANCE_DATE": "June 24, 2022",
             "EXPIRY_DATE": "June 29, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "HYPERTONIC LACTATE",
@@ -758,7 +664,6 @@
             "RETAIL_PRICE": "971.75",
             "ISSUANCE_DATE": "March 03, 2022",
             "EXPIRY_DATE": "June 05, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "HYPROMELLOS OPTHALMIC SOL'N",
@@ -766,7 +671,6 @@
             "RETAIL_PRICE": "249.00",
             "ISSUANCE_DATE": "December 22, 2020",
             "EXPIRY_DATE": "March 08, 2025",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "INSULIN HUMAN",
@@ -774,7 +678,6 @@
             "RETAIL_PRICE": "363.00",
             "ISSUANCE_DATE": "May 20, 2022",
             "EXPIRY_DATE": "September 06, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "IRBESARTAN",
@@ -782,7 +685,6 @@
             "RETAIL_PRICE": "3.25",
             "ISSUANCE_DATE": "March 03, 2021",
             "EXPIRY_DATE": "May 16, 2026",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "IRBESARTAN",
@@ -790,7 +692,6 @@
             "RETAIL_PRICE": "23.00",
             "ISSUANCE_DATE": "March 03, 2021",
             "EXPIRY_DATE": "May 16, 2026",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "ISOSORBIDE DINITRATE",
@@ -798,7 +699,6 @@
             "RETAIL_PRICE": "196.50",
             "ISSUANCE_DATE": "July 07, 2023",
             "EXPIRY_DATE": "December 26, 2027",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "ISOSORBIDE MONONIRATE",
@@ -806,7 +706,6 @@
             "RETAIL_PRICE": "9.50",
             "ISSUANCE_DATE": "October 18, 2022",
             "EXPIRY_DATE": "October 18, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "ISOXSUPRINE",
@@ -814,7 +713,6 @@
             "RETAIL_PRICE": "358.00",
             "ISSUANCE_DATE": "October 04, 2021",
             "EXPIRY_DATE": "October 21, 2026",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "IRON SUCROSE",
@@ -822,7 +720,6 @@
             "RETAIL_PRICE": "360.50",
             "ISSUANCE_DATE": "March 03, 2022",
             "EXPIRY_DATE": "March 08, 2025",
-            "LIFE_SPAN": "3"
         },
         {
             "NAME": "I.V.FLUIDS 5% DEXTROSE IN 0.3% SODIUM CHLORIDE",
@@ -830,7 +727,6 @@
             "RETAIL_PRICE": "36.25",
             "ISSUANCE_DATE": "September 21, 2021",
             "EXPIRY_DATE": "September 23, 2026",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "I.V. FLUIDS 5% DEXTROSE IN 0.9% SODIUM CHLORIDE",
@@ -838,7 +734,6 @@
             "RETAIL_PRICE": "55.00",
             "ISSUANCE_DATE": "September 21, 2021",
             "EXPIRY_DATE": "September 23, 2026",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "I.V. FLUIDS 5% DEXTROSE IN WATER",
@@ -846,7 +741,6 @@
             "RETAIL_PRICE": "67.50",
             "ISSUANCE_DATE": "March 28, 2022",
             "EXPIRY_DATE": "August 01, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "I.V. FLUIDS 5% DEXTROSE IN WATER",
@@ -854,7 +748,6 @@
             "RETAIL_PRICE": "89.50",
             "ISSUANCE_DATE": "March 28, 2022",
             "EXPIRY_DATE": "August 01, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "I.V. FLUIDS 5% DEXTROSE IN WATER",
@@ -862,7 +755,6 @@
             "RETAIL_PRICE": "102.50",
             "ISSUANCE_DATE": "March 28, 2022",
             "EXPIRY_DATE": "August 01, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "I.V. FLUIDS 5% DEXTROSE IN WATER",
@@ -870,7 +762,6 @@
             "RETAIL_PRICE": "36.25",
             "ISSUANCE_DATE": "March 28, 2022",
             "EXPIRY_DATE": "August 01, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "I.V. FLUIDS 10% DEXTROSE IN WATER",
@@ -878,7 +769,6 @@
             "RETAIL_PRICE": "37.75",
             "ISSUANCE_DATE": "March 28, 2022",
             "EXPIRY_DATE": "August 01, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "I.V. FLUIDS BALANCE MULTIPLE MAINTENACE SOLUTION WITH 5% DEXTROSE",
@@ -886,7 +776,6 @@
             "RETAIL_PRICE": "68.25",
             "ISSUANCE_DATE": "September 21, 2021",
             "EXPIRY_DATE": "September 23, 2026",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "I.V. FLUIDS BALANCE MULTIPLE MAINTENACE SOLUTION WITH 5% DEXTROSE",
@@ -894,7 +783,6 @@
             "RETAIL_PRICE": "36.25",
             "ISSUANCE_DATE": "September 21, 2021",
             "EXPIRY_DATE": "September 23, 2026",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "I.V FLUIDS LACTATED RINGER'S SOLUTION",
@@ -902,7 +790,6 @@
             "RETAIL_PRICE": "102.50",
             "ISSUANCE_DATE": "September 21, 2021",
             "EXPIRY_DATE": "September 23, 2026",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "I.V FLUIDS LACTATED RINGER'S SOLUTION",
@@ -910,7 +797,6 @@
             "RETAIL_PRICE": "81.00",
             "ISSUANCE_DATE": "September 21, 2021",
             "EXPIRY_DATE": "September 23, 2026",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "I.V FLUIDS SODIUM CHLORIDE",
@@ -918,7 +804,6 @@
             "RETAIL_PRICE": "26.25",
             "ISSUANCE_DATE": "June 20, 2022",
             "EXPIRY_DATE": "November 20, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "I.V FLUIDS SODIUM CHLORIDE",
@@ -926,7 +811,6 @@
             "RETAIL_PRICE": "29.25",
             "ISSUANCE_DATE": "June 20, 2022",
             "EXPIRY_DATE": "November 20, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "I.V FLUIDS SODIUM CHLORIDE",
@@ -934,7 +818,6 @@
             "RETAIL_PRICE": "45.25",
             "ISSUANCE_DATE": "June 20, 2022",
             "EXPIRY_DATE": "November 20, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "I.V FLUIDS SODIUM CHLORIDE",
@@ -942,7 +825,6 @@
             "RETAIL_PRICE": "33.50",
             "ISSUANCE_DATE": "June 20, 2022",
             "EXPIRY_DATE": "November 20, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "I.V FLUIDS LACTATED RINGER'S SOLUTION",
@@ -950,7 +832,6 @@
             "RETAIL_PRICE": "38.25",
             "ISSUANCE_DATE": "October 16, 2020",
             "EXPIRY_DATE": "November 04, 2025",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "LACTULOSE",
@@ -958,7 +839,6 @@
             "RETAIL_PRICE": "375.00",
             "ISSUANCE_DATE": "October 24, 2022",
             "EXPIRY_DATE": "April 05, 2028",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "LAMOTRIGINE",
@@ -966,7 +846,6 @@
             "RETAIL_PRICE": "14.50",
             "ISSUANCE_DATE": "October 29, 2022",
             "EXPIRY_DATE": "December 11, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "LAMOTRIGINE",
@@ -974,7 +853,6 @@
             "RETAIL_PRICE": "24.50",
             "ISSUANCE_DATE": "January 23, 2020",
             "EXPIRY_DATE": "October 21, 2024",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "LATANOPROST",
@@ -982,7 +860,6 @@
             "RETAIL_PRICE": "735.00",
             "ISSUANCE_DATE": "November 03, 2021",
             "EXPIRY_DATE": "December 08, 2026",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "LEVETIRACETAM",
@@ -990,7 +867,6 @@
             "RETAIL_PRICE": "12.50",
             "ISSUANCE_DATE": "May 09, 2023",
             "EXPIRY_DATE": "May 09, 2028",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "LEVODOPA + CARBIDOPA",
@@ -998,7 +874,6 @@
             "RETAIL_PRICE": "19.25",
             "ISSUANCE_DATE": "April 29, 2020",
             "EXPIRY_DATE": "September 11, 2025",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "LEVOFLOXACIN",
@@ -1006,7 +881,6 @@
             "RETAIL_PRICE": "795.00",
             "ISSUANCE_DATE": "August 18, 2020",
             "EXPIRY_DATE": "August 18, 2025",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "LIDOCAINE + EPINEPHRINE",
@@ -1014,7 +888,6 @@
             "RETAIL_PRICE": "33.50",
             "ISSUANCE_DATE": "June 14, 2022",
             "EXPIRY_DATE": "August 22, 2024",
-            "LIFE_SPAN": "2"
         },
         {
             "NAME": "LIDOCAINE",
@@ -1022,7 +895,6 @@
             "RETAIL_PRICE": " 2,281.00",
             "ISSUANCE_DATE": "June 14, 2022",
             "EXPIRY_DATE": "August 22, 2024",
-            "LIFE_SPAN": "2"
         },
         {
             "NAME": "LORATADINE",
@@ -1030,7 +902,6 @@
             "RETAIL_PRICE": "102.50",
             "ISSUANCE_DATE": "February 22, 2022",
             "EXPIRY_DATE": "November 25, 2028",
-            "LIFE_SPAN": "6"
         },
         {
             "NAME": "LOSARTAN",
@@ -1038,7 +909,6 @@
             "RETAIL_PRICE": "2.75",
             "ISSUANCE_DATE": "September 02, 2022",
             "EXPIRY_DATE": "September 02, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "MAGNESIUM SULFATE",
@@ -1046,7 +916,6 @@
             "RETAIL_PRICE": "33.25",
             "ISSUANCE_DATE": "August 16, 2022",
             "EXPIRY_DATE": "September 19, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "MEFENAMIC ACID",
@@ -1054,7 +923,6 @@
             "RETAIL_PRICE": "2.50",
             "ISSUANCE_DATE": "June 10, 2023",
             "EXPIRY_DATE": "July 02, 2028",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "MEMANTINE",
@@ -1062,7 +930,6 @@
             "RETAIL_PRICE": "22.75",
             "ISSUANCE_DATE": "April 23, 2020",
             "EXPIRY_DATE": "June 05, 2025",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "METHYLDOPA",
@@ -1070,7 +937,6 @@
             "RETAIL_PRICE": "12.75",
             "ISSUANCE_DATE": "August 08, 2023",
             "EXPIRY_DATE": "August 11, 2028",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "METHYLERGOMETRINE",
@@ -1078,7 +944,6 @@
             "RETAIL_PRICE": "23.00",
             "ISSUANCE_DATE": "September 23, 2020",
             "EXPIRY_DATE": "August 31, 2025",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "METOCLOPRAMIDE",
@@ -1086,7 +951,6 @@
             "RETAIL_PRICE": "12.50",
             "ISSUANCE_DATE": "April 03, 2023",
             "EXPIRY_DATE": "April 03, 2028",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "METRONIDAZOLE",
@@ -1094,7 +958,6 @@
             "RETAIL_PRICE": "18.50",
             "ISSUANCE_DATE": "November 02, 2023",
             "EXPIRY_DATE": "October 10, 2024",
-            "LIFE_SPAN": "0"
         },
         {
             "NAME": "MONTELUKAST",
@@ -1102,7 +965,6 @@
             "RETAIL_PRICE": "11.00",
             "ISSUANCE_DATE": "March 26, 2021",
             "EXPIRY_DATE": "January 11, 2026",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "MONTELUKAST",
@@ -1110,7 +972,6 @@
             "RETAIL_PRICE": "10.00",
             "ISSUANCE_DATE": "December 06, 2021",
             "EXPIRY_DATE": "September 01, 2026",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "MORPHINE",
@@ -1118,7 +979,6 @@
             "RETAIL_PRICE": "15.75",
             "ISSUANCE_DATE": "May 21, 2022",
             "EXPIRY_DATE": "May 18, 2027",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "MULTIVITAMINS",
@@ -1126,7 +986,6 @@
             "RETAIL_PRICE": "2.00",
             "ISSUANCE_DATE": "October 18, 2023",
             "EXPIRY_DATE": "September 21, 2028",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "NEOSTIGMINE",
@@ -1134,7 +993,6 @@
             "RETAIL_PRICE": "156.50",
             "ISSUANCE_DATE": "September 14, 2023",
             "EXPIRY_DATE": "September 01, 2028",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "NOREPINEPHRINE",
@@ -1142,7 +1000,6 @@
             "RETAIL_PRICE": "975.00",
             "ISSUANCE_DATE": "April 08, 2021",
             "EXPIRY_DATE": "April 04, 2026",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "NYSTATIN",
@@ -1150,7 +1007,6 @@
             "RETAIL_PRICE": "195.00",
             "ISSUANCE_DATE": "October 19, 2022",
             "EXPIRY_DATE": "November 23, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "OLANZAPINE",
@@ -1158,7 +1014,6 @@
             "RETAIL_PRICE": "24.75",
             "ISSUANCE_DATE": "January 09, 2023",
             "EXPIRY_DATE": "January 07, 2028",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "OXACILLIN",
@@ -1166,7 +1021,6 @@
             "RETAIL_PRICE": "25.00",
             "ISSUANCE_DATE": "January 18, 2023",
             "EXPIRY_DATE": "March 04, 2028",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "OXACILLIN",
@@ -1174,7 +1028,6 @@
             "RETAIL_PRICE": "135.00",
             "ISSUANCE_DATE": "February 17, 2023",
             "EXPIRY_DATE": "May 02, 2028",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "PARACETAMOL",
@@ -1182,7 +1035,6 @@
             "RETAIL_PRICE": "29.25",
             "ISSUANCE_DATE": "May 06, 2021",
             "EXPIRY_DATE": "May 08, 2026",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "PARACETAMOL",
@@ -1190,7 +1042,6 @@
             "RETAIL_PRICE": "57.25",
             "ISSUANCE_DATE": "May 29, 2023",
             "EXPIRY_DATE": "October 06, 2028",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "PARACETAMOL",
@@ -1198,7 +1049,6 @@
             "RETAIL_PRICE": "9.00",
             "ISSUANCE_DATE": "April 16, 2020",
             "EXPIRY_DATE": "March 10, 2025",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "PHENOBARBITAL",
@@ -1206,7 +1056,6 @@
             "RETAIL_PRICE": "5.75",
             "ISSUANCE_DATE": "March 01, 2023",
             "EXPIRY_DATE": "May 29, 2028",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "PHENOBARBITAL",
@@ -1214,7 +1063,6 @@
             "RETAIL_PRICE": "7.25",
             "ISSUANCE_DATE": "April 22, 2023",
             "EXPIRY_DATE": "May 29, 2028",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "PHYTOMENADIONE",
@@ -1222,7 +1070,6 @@
             "RETAIL_PRICE": "68.25",
             "ISSUANCE_DATE": "September 09, 2019",
             "EXPIRY_DATE": "September 09, 2024",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "POTASSIUM CITRATE",
@@ -1230,7 +1077,6 @@
             "RETAIL_PRICE": "8.75",
             "ISSUANCE_DATE": "September 12, 2022",
             "EXPIRY_DATE": "December 17, 2024",
-            "LIFE_SPAN": "2"
         },
         {
             "NAME": "PREDNISOLONE ACETATE",
@@ -1238,7 +1084,6 @@
             "RETAIL_PRICE": "297.00",
             "ISSUANCE_DATE": "March 17, 2022",
             "EXPIRY_DATE": "February 19, 2028",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "PROPRANOLOL",
@@ -1246,7 +1091,6 @@
             "RETAIL_PRICE": "5.50",
             "ISSUANCE_DATE": "August 15, 2022",
             "EXPIRY_DATE": "August 15, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "QUETIAPINE",
@@ -1254,7 +1098,6 @@
             "RETAIL_PRICE": "29.25",
             "ISSUANCE_DATE": "January 16, 2023",
             "EXPIRY_DATE": "June 30, 2027",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "QUETIAPINE",
@@ -1262,7 +1105,6 @@
             "RETAIL_PRICE": "32.00",
             "ISSUANCE_DATE": "February 28, 2022",
             "EXPIRY_DATE": "February 28, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "QUETIAPINE",
@@ -1270,7 +1112,6 @@
             "RETAIL_PRICE": "63.00",
             "ISSUANCE_DATE": "April 19, 2022",
             "EXPIRY_DATE": "October 12, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "RANITIDINE",
@@ -1278,7 +1119,6 @@
             "RETAIL_PRICE": "32.00",
             "ISSUANCE_DATE": "June 11, 2023",
             "EXPIRY_DATE": "September 02, 2028",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "RISPERIDONE",
@@ -1286,7 +1126,6 @@
             "RETAIL_PRICE": "3.50",
             "ISSUANCE_DATE": "April 06, 2022",
             "EXPIRY_DATE": "April 25, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "ROSUVASTATIN",
@@ -1294,7 +1133,6 @@
             "RETAIL_PRICE": "5.00",
             "ISSUANCE_DATE": "October 29, 2022",
             "EXPIRY_DATE": "October 25, 2026",
-            "LIFE_SPAN": "3"
         },
         {
             "NAME": "SALBUTAMOL",
@@ -1302,7 +1140,6 @@
             "RETAIL_PRICE": "28.00",
             "ISSUANCE_DATE": "March 21, 2023",
             "EXPIRY_DATE": "February 26, 2028",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "SALBUTAMOL",
@@ -1310,7 +1147,6 @@
             "RETAIL_PRICE": "25.00",
             "ISSUANCE_DATE": "March 21, 2023",
             "EXPIRY_DATE": "February 26, 2028",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "SALBUTAMOL INHALER",
@@ -1318,7 +1154,6 @@
             "RETAIL_PRICE": "159.50",
             "ISSUANCE_DATE": "March 21, 2023",
             "EXPIRY_DATE": "February 26, 2028",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "SALBUTAMOL INHALER",
@@ -1326,7 +1161,6 @@
             "RETAIL_PRICE": "165.00",
             "ISSUANCE_DATE": "March 21, 2023",
             "EXPIRY_DATE": "February 26, 2028",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "SERTRALINE",
@@ -1334,7 +1168,6 @@
             "RETAIL_PRICE": "9.00",
             "ISSUANCE_DATE": "July 05, 2023",
             "EXPIRY_DATE": "December 16, 2028",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "SODIUM BICARBONATE",
@@ -1342,7 +1175,6 @@
             "RETAIL_PRICE": "2.00",
             "ISSUANCE_DATE": "January 25, 2021",
             "EXPIRY_DATE": "January 25, 2026",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "SODIUM HYALURONATE",
@@ -1350,7 +1182,6 @@
             "RETAIL_PRICE": "320.00",
             "ISSUANCE_DATE": "November 10, 2022",
             "EXPIRY_DATE": "December 18, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "SPIRONOLACTONE",
@@ -1358,7 +1189,6 @@
             "RETAIL_PRICE": "13.75",
             "ISSUANCE_DATE": "January 19, 2022",
             "EXPIRY_DATE": "October 04, 2026",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "TETANUS IMMUNOGLOBULIN (HUMAN)",
@@ -1366,7 +1196,6 @@
             "RETAIL_PRICE": " 1,035.00",
             "ISSUANCE_DATE": "January 07, 2022",
             "EXPIRY_DATE": "September 03, 2026",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "TIMOLOL MALEATE",
@@ -1374,7 +1203,6 @@
             "RETAIL_PRICE": "285.00",
             "ISSUANCE_DATE": "March 28, 2022",
             "EXPIRY_DATE": "March 10, 2027",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "TOLVAPTAN",
@@ -1382,7 +1210,6 @@
             "RETAIL_PRICE": "798.25",
             "ISSUANCE_DATE": "October 17, 2022",
             "EXPIRY_DATE": "April 23, 2026",
-            "LIFE_SPAN": "3"
         },
         {
             "NAME": "TOMBRAMYCIN DEXAMETHASONE",
@@ -1390,7 +1217,6 @@
             "RETAIL_PRICE": "279.00",
             "ISSUANCE_DATE": "February 15, 2022",
             "EXPIRY_DATE": "February 05, 2027",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "TRAMADOL",
@@ -1398,7 +1224,6 @@
             "RETAIL_PRICE": "2.00",
             "ISSUANCE_DATE": "June 04, 2019",
             "EXPIRY_DATE": "May 21, 2024",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "TRAMADOL",
@@ -1406,7 +1231,6 @@
             "RETAIL_PRICE": "9.75",
             "ISSUANCE_DATE": "January 20, 2020",
             "EXPIRY_DATE": "October 13, 2024",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "TRAMADOL",
@@ -1414,7 +1238,6 @@
             "RETAIL_PRICE": "128.50",
             "ISSUANCE_DATE": "December 29, 2020",
             "EXPIRY_DATE": "September 25, 2024",
-            "LIFE_SPAN": "3"
         },
         {
             "NAME": "TRIMETAZIDINE",
@@ -1422,7 +1245,6 @@
             "RETAIL_PRICE": "14.00",
             "ISSUANCE_DATE": "April 08, 2020",
             "EXPIRY_DATE": "March 19, 2025",
-            "LIFE_SPAN": "4"
         },
         {
             "NAME": "TRANEXAMIC ACID",
@@ -1430,7 +1252,6 @@
             "RETAIL_PRICE": "24.00",
             "ISSUANCE_DATE": "June 25, 2020",
             "EXPIRY_DATE": "July 19, 2025",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "VITAMIN B COMPLEX",
@@ -1438,7 +1259,6 @@
             "RETAIL_PRICE": "2.00",
             "ISSUANCE_DATE": "August 08, 2022",
             "EXPIRY_DATE": "October 03, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "VITAMIN B COMPLEX",
@@ -1446,7 +1266,6 @@
             "RETAIL_PRICE": "102.50",
             "ISSUANCE_DATE": "August 08, 2022",
             "EXPIRY_DATE": "October 03, 2027",
-            "LIFE_SPAN": "5"
         },
         {
             "NAME": "VITAMIN B COMPLEX",
@@ -1454,7 +1273,6 @@
             "RETAIL_PRICE": "42.00",
             "ISSUANCE_DATE": "August 08, 2022",
             "EXPIRY_DATE": "October 03, 2027",
-            "LIFE_SPAN": "5"
         }
     ]
 }

@@ -1,5 +1,6 @@
 const express = require('express')
 const router = express.Router()
+const checkUserRole = require('../middlewares/checkUserRole')
 
 const {
     getDrugsList,
@@ -9,8 +10,8 @@ const {
     deleteSingleDrug
 } = require('../controllers/drugsController')
 
-router.route('/').get(getDrugsList).post(addDrugItem)
-router.route('/:id').get(getSingleDrug).patch(updateSingleDrug).delete(deleteSingleDrug)
+router.route('/').get(checkUserRole, getDrugsList).post(checkUserRole, addDrugItem)
+router.route('/:id').get(checkUserRole, getSingleDrug).patch(checkUserRole, updateSingleDrug).delete(checkUserRole, deleteSingleDrug)
 
 module.exports = router
 

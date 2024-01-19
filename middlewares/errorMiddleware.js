@@ -1,12 +1,40 @@
 const { StatusCodes } = require('http-status-codes')
-const { CustomError } = require('../errors/ErrorClassObj')
 
 const errorHandlerMiddleware = (err, req, res, next) => {
-    console.log(err)
-    if(err instanceof CustomError) {
-        return res.status(err.statusCode).json({msg: err.message})
-    }
-    return res.status(StatusCodes.INTERNAL_SERVER_ERROR).json({ err })
+    let customError = {
+        statusCode: err.statusCode || StatusCodes.INTERNAL_SERVER_ERROR,
+        msg: err.message || "Something went wrong...",
+      };
+    
+      // CustomAPIError class is now not needed because of the object customError casting the err received
+      // if(err instanceof CustomAPIError) {
+      //     return res.status(err.statusCode).json({msg: err.message})
+      // }
+    
+      if (err.name === "ValidationError") {
+        customError.statusCode = StatusCodes.BAD_REQUEST;
+        customError.msg = Object.values(err.errors)
+          .map((item) => item.message)
+          .join(" || ");
+      }
+    
+      if(err.name === 'CastError') {
+        customError.statusCode = StatusCodes.NOT_FOUND
+        customError.msg = `No item found with id ${err.value}`
+      }
+    
+      if (err.code && err.code === 11000) {
+        customError.statusCode = StatusCodes.BAD_REQUEST;
+        customError.msg = `Duplicate error for user ${Object.keys(
+          err.keyValue
+        )}, please try again...`;
+      }
+    
+    //   return res.status(StatusCodes.INTERNAL_SERVER_ERROR).json({ err });
+      return res.status(customError.statusCode).json({ msg: customError.msg });
+
+
+
 }
 
 module.exports = errorHandlerMiddleware
