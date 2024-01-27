@@ -1,6 +1,5 @@
 const { UnauthorizedError } = require("../errors/ErrorClassObj")
 const jwt = require('jsonwebtoken')
-const Admin = require('../models/AdminModel')
 
 const authenticateAdmin = async (req, res, next) => {
     const authHeader = req.headers.authorization

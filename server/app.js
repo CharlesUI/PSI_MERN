@@ -1,6 +1,8 @@
 require('dotenv').config()
 require('express-async-errors')
 
+
+const cors = require('cors')
 const express = require('express')
 const app = express()
 //Import db connection function
@@ -17,6 +19,7 @@ const notFound = require('./middlewares/notFound')
 const errorHandlerMiddleware = require('./middlewares/errorMiddleware')
 
 //Middlewares
+app.use(cors())
 app.use(express.json())
 
 //Routes

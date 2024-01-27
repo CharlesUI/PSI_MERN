@@ -3,6 +3,7 @@ const Drugs = require("../models/DrugsModel");
 const NotFoundError = require("../errors/ErrorClassObj");
 
 const getDrugsList = async (req, res) => {
+  console.log(req.user)
   const drugs = await Drugs.find({}).sort('NAME');
   res.status(StatusCodes.OK).json(drugs);
 };
@@ -10,7 +11,7 @@ const addDrugItem = async (req, res) => {
   let updatedBody = [];
   //check if the pushed items is a bulk, if it is an array, then map through it
   console.log(Array.isArray(req.body));
-  if (Array.isArray(req.body)) {
+  if (Array.isArray(req.body)) { 
     req.body.map((item) => {
       return typeof item.RETAIL_PRICE === "string" &&
         item.RETAIL_PRICE.includes(",")

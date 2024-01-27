@@ -7,7 +7,7 @@ const register = async (req, res) => {
     const admin = await Admin.create(req.body)
     //Create token after registering
     const token = admin.createToken()
-    res.status(StatusCodes.OK).json({ admin, token })
+    res.status(StatusCodes.OK).json({ admin: { email: admin.email, adminUser: admin.username }, token })
 }
 
 const login = async (req, res) => {
@@ -29,7 +29,7 @@ const login = async (req, res) => {
     }
 
     const token = admin.createToken()
-    res.status(StatusCodes.OK).json({ admin, token })
+    res.status(StatusCodes.OK).json({ admin: { email: admin.email, adminUser: admin.username } , token })
 }
 
 module.exports = {
