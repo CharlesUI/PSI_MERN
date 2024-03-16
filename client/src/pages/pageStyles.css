@@ -1,0 +1,9 @@
+.pages {
+  margin-top: 60px;
+  width: min(90%, 1400px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  padding: 10px;
+}
