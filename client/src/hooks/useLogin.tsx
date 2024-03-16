@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { useAuthContext } from "./useAuthContext";
 import { API_URL } from "./config";
-import { REDUCER_ACTION_TYPE } from "../context/AuthContext";
+import { REDUCER_ACTION_TYPE } from "../Types/AuthContextTypes";
 import { FormDataType } from "../Types/AuthContextTypes";
 
 export const useLogin = () => {

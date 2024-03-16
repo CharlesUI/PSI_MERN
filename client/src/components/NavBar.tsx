@@ -17,7 +17,11 @@ const NavBar = () => {
  
   return (
     <header>
-      <nav className="nav-container">
+      {
+        !state.user ? (
+          <div>LOGO</div>
+        ) : (
+          <nav className="nav-container">
         <div className="home-logo">
           <Link to={"/"}>Home</Link>
         </div>
@@ -31,10 +35,12 @@ const NavBar = () => {
               {state.user?.adminUser ? <button onClick={handleLogout} className="log-out-btn" ><SlLogout /></button> : null }
             </div>
           </div>
-          <div className="log-nav nav">
+          {/* <div className="log-nav nav">
             <Link to={"/login"}>login</Link>
-          </div>
+          </div> */}
       </nav>
+        )
+      }
     </header>
   )
 }

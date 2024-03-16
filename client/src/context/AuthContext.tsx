@@ -1,32 +1,14 @@
 import {
-  Dispatch,
   ReactElement,
-  ReactNode,
   createContext,
   useEffect,
   useReducer,
 } from "react";
 
-type StateType = {
-  user?: {
-    adminUser?: string;
-    email?: string;
-    token?: string;
-  }
-}
-
-export const enum REDUCER_ACTION_TYPE {
-  LOGIN,
-  LOGOUT,
-}
+import { StateType, ReducerActions, REDUCER_ACTION_TYPE, AuthContextType, ChildrenType } from "../Types/AuthContextTypes";
 
 export const initState: StateType = {
   user: {},
-};
-
-type ReducerActions = {
-  type: REDUCER_ACTION_TYPE;
-  payload?: StateType;
 };
 
 const actionReducer = (state: StateType, action: ReducerActions): StateType => {
@@ -42,20 +24,11 @@ const actionReducer = (state: StateType, action: ReducerActions): StateType => {
 
 //CONTEXT
 
-type ChildrenType = {
-  children: ReactNode;
-};
-
 // const useAuthContext = (initState: StateType) => {
 //   const [state, dispatch] = useReducer(actionReducer, initState);
 
 //   return { state, dispatch };
 // };
-
-type AuthContextType = {
-  state: StateType;
-  dispatch: Dispatch<ReducerActions>;
-};
 
 const initContextState: AuthContextType = {
   state: initState,
