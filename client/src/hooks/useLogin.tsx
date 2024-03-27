@@ -32,7 +32,7 @@ export const useLogin = () => {
       localStorage.setItem("user", JSON.stringify({
         user: json,
       }));
-      console.log("form saved in local", {
+      console.log("Local Storage", {
         user: json,
       });
       //update the context

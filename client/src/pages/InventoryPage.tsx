@@ -1,8 +1,14 @@
+import DrugsTable from "../components/DrugsTable";
+
 
 const InventoryPage = () => {
-  return (
-    <div>InventoryPage</div>
-  )
-}
+  
 
-export default InventoryPage
+  return (
+    <div>
+      <DrugsTable />
+    </div>
+  )
+};
+
+export default InventoryPage;

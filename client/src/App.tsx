@@ -18,7 +18,7 @@ import { useAuthContext } from "./hooks/useAuthContext";
 const App = () => {
   const { state } = useAuthContext();
 
-  console.log("App state", state);
+  console.log("Initial State in The App Component", state);
 
   return (
     <div className="App">

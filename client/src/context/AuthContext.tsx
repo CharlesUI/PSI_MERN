@@ -46,11 +46,10 @@ export const AuthContextProvider = ({
   useEffect(() => {
     const storedUser = localStorage.getItem("user");
 
-    console.log("stored", storedUser)
     if (storedUser) {
       try {
         const parsedUser = JSON.parse(storedUser);
-        console.log("parsed", parsedUser)
+        console.log("Parsed User in Local", parsedUser)
         dispatch({ type: REDUCER_ACTION_TYPE.LOGIN, payload: parsedUser });
       } catch (error) {
         console.error("Error parsing stored user data:", error);

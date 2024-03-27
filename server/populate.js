@@ -1,5 +1,5 @@
 const DrugModel = require("./model/Drug");
-const data = require("./data.json");
+const data = require("./newData.json");
 const connectDB = require("./db/connect");
 require('dotenv').config()
 

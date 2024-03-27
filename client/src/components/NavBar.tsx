@@ -7,7 +7,7 @@ import { useLogout } from '../hooks/useLogout'
 const NavBar = () => {
   const { state } = useAuthContext()
 
-  console.log("nav state", state)
+  console.log("Initial State in the Nav Component", state)
 
   const { logout } = useLogout()
 

@@ -31,6 +31,14 @@ const DrugSchema = new mongoose.Schema(
       ref: "Admin",
       required: true,
     },
+    STOCK_COUNT: {
+      type: Number,
+      required: [true, "Fill out the Stock Count for the item..."],
+    },
+    AVAILABILITY: {
+      type: Boolean,
+      required: [true, "Fill out the Availability for the item..."],
+    }
   },
   { timestamps: true }
 );
